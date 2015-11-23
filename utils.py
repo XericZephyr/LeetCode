@@ -1,5 +1,7 @@
 __author__ = 'clp'
 
+from collections import Counter
+
 '''
     Useful Data Structures and Utilities
 '''
