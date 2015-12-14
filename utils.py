@@ -1,5 +1,7 @@
 __author__ = 'clp'
 
+
+
 '''
     Useful Data Structures and Utilities
 '''
@@ -109,3 +111,9 @@ class TreeNode(object):
         print res
 
 
+
+class RandomListNode(object):
+    def __init__(self, x):
+        self.label = x
+        self.next = None
+        self.random = None
