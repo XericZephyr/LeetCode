@@ -68,14 +68,14 @@ class TreeNode(object):
         next_level = []
         while current_level and list_pointer < len(tree_list):
             for current_node in current_level:
-                if tree_list[list_pointer] == '#':
+                if list_pointer >= len(tree_list) or tree_list[list_pointer] == '#':
                     n = None
                 else:
                     n = cls(tree_list[list_pointer])
                     next_level.append(n)
                 current_node.left = n
                 list_pointer += 1
-                if tree_list[list_pointer] == '#':
+                if list_pointer >= len(tree_list) or tree_list[list_pointer] == '#':
                     n = None
                 else:
                     n = cls(tree_list[list_pointer])
