@@ -115,3 +115,11 @@ class RandomListNode(object):
         self.label = x
         self.next = None
         self.random = None
+
+
+class TreeLinkNode(object):
+    def __init__(self, x):
+        self.val = x
+        self.left = None
+        self.right = None
+        self.next = None
