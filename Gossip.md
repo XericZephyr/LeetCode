@@ -8,6 +8,8 @@
 
 * Binary Tree Right Side View, Simple solution by level order traversal 
 
+* Remove Duplicates from Sorted Array II: Simple, just use two pointers 
+
 * Count Complete Tree Nodes: Cheating, but works 
 
 * Populating Next Right Pointers in Each Node, No idea the meaning of 'constant space'
