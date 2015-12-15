@@ -8,8 +8,10 @@
 
 * Binary Tree Right Side View, Simple solution by level order traversal 
 
-* Populating Next Right Pointers in Each Node, No idea the meaning of 'constant space'
+* Count Complete Tree Nodes: Cheating, but works 
 
+* Populating Next Right Pointers in Each Node, No idea the meaning of 'constant space'
+* Populating Next Right Pointers in Each Node II, AC, but solution is wrong since not only use constant space
 
 Question: 
 * In level-order traversal or BFS, how does "constant space" count? 
