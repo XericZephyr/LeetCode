@@ -22,7 +22,7 @@
 * Binary Search Tree Iterator: Very simple data structure problem 
 * Peeking Iterator: Very basic data structure
 * Find Peak Element: Use three pointers to do search in logarithm time 
-
+* H Index II: Corner case, DO it again 
 
 ## List or Pointer 
 * Rotate List: Just try to fool you by different corner case 
@@ -31,6 +31,7 @@
 * Container With Most Water: This one is very simple. Just have problems to understand question. 
 * Linked List Cycle II: Very Tricky, see proof 
 * Find the Duplicate Number: Could use Linked List Cycle II to solve it, very tricky. 
+
 
 ## Question 
 * In level-order traversal or BFS, how does "constant space" count? 
