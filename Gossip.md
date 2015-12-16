@@ -46,6 +46,9 @@
     Does this mean the use of node queue is prohibited? 
 * This is called O(N) ???? https://leetcode.com/discuss/74447/java-o-n-minimum-size-subarray-sum-using-two-pointers
 
+## Dynamic Programming 
+
+* House Robber II: Can we break the circle? How? 
 
 ## Proof 
 
