@@ -20,6 +20,7 @@
 * Kth Smallest Element in a BST: Binary Search Tree In-order Traversal
 
 * Binary Search Tree Iterator: Very simple data structure problem 
+* Peeking Iterator: Very basic data structure
 
 
 ## List or Pointer 
