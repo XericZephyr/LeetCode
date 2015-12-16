@@ -23,7 +23,11 @@
 * Peeking Iterator: Very basic data structure
 * Find Peak Element: Use three pointers to do search in logarithm time 
 * H Index II: Corner case, DO it again 
+
+## Search 
+
 * Search a 2D Matrix II: Design Reasonable Path 
+* Search for a Range: Binary Search, corner case
 
 ## List or Pointer 
 * Rotate List: Just try to fool you by different corner case 
