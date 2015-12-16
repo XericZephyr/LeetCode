@@ -21,6 +21,7 @@
 
 * Binary Search Tree Iterator: Very simple data structure problem 
 * Peeking Iterator: Very basic data structure
+* Find Peak Element: Use three pointers to do search in logarithm time 
 
 
 ## List or Pointer 
