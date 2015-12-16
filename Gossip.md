@@ -24,6 +24,7 @@
 * Partition List: Two Pointers, very simple
 * Container With Most Water: This one is very simple. Just have problems to understand question. 
 * Linked List Cycle II: Very Tricky, see proof 
+* Find the Duplicate Number: Could use Linked List Cycle II to solve it, very tricky. 
 
 ## Question 
 * In level-order traversal or BFS, how does "constant space" count? 
