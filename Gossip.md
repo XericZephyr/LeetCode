@@ -29,6 +29,7 @@
 
 * Search a 2D Matrix II: Design Reasonable Path 
 * Search for a Range: Binary Search, corner case
+* Longest Increasing Subsequence: using dynamic programming, no idea how to use O(NLogN)
 
 ## List or Pointer 
 * Rotate List: Just try to fool you by different corner case 
