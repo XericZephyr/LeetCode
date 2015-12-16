@@ -23,8 +23,20 @@
 * Remove Duplicates from Sorted Array II: Simple, just use two pointers 
 * Partition List: Two Pointers, very simple
 * Container With Most Water: This one is very simple. Just have problems to understand question. 
+* Linked List Cycle II: Very Tricky, see proof 
 
 ## Question 
 * In level-order traversal or BFS, how does "constant space" count? 
     Does this mean the use of node queue is prohibited? 
 * This is called O(N) ???? https://leetcode.com/discuss/74447/java-o-n-minimum-size-subarray-sum-using-two-pointers
+
+
+## Proof 
+
+### Linked List Cycle II 
+Set linked list length as `l` and cycle length `k`. 
+Set fast pivot goes 2 step each iteration and slow pivot goes 1 step iteration. 
+So their first meeting is at step `n` and we got `2n-n=k`. So `n=k`. 
+When first met, we make slow start from head and fast pivot start from the position they first met, 
+both at rate 1 step/iter. 
+When they both travel `l-k` steps, they met the second time, and which is the head position we need to see. 
