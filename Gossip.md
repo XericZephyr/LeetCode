@@ -19,6 +19,8 @@
 
 * Kth Smallest Element in a BST: Binary Search Tree In-order Traversal
 
+* Binary Search Tree Iterator: Very simple data structure problem 
+
 
 ## List or Pointer 
 * Rotate List: Just try to fool you by different corner case 
