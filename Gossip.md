@@ -2,6 +2,7 @@
 
 ## Math 
 * Fraction to Recurring Decimal: Simple, but with many corner cases
+* Pow(x, n): Corner case, binary division 
 
 ## Array
 * 4sum, not similar to 2sum, optimization by several well-designed conditions.
