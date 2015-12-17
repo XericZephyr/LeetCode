@@ -43,6 +43,7 @@
 ## Back Tracking 
 
 * Gray Code: Use reversed engineering by Run Code
+* Combination Sum III: Not very hard, the time is not a big issue
 
 ## Dynamic Programming 
 
