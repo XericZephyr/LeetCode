@@ -45,6 +45,7 @@
 * Gray Code: Use reversed engineering by Run Code
 * Combination Sum III: Not very hard, the time is not a big issue
 * Combination Sum: Watch out for corner case
+* Letter Combinations of a Phone Number: Very simple
 
 ## Dynamic Programming 
 
