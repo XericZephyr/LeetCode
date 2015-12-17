@@ -14,6 +14,7 @@
 
 ## Bit Manipulation 
 * Bitwise AND of Numbers Range: Idea is interesting. Write down the binary representation, find clues. 
+# Reverse Bits: Easy, no explanation
 
 ## Tree Related 
 
