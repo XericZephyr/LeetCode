@@ -48,6 +48,7 @@
 * Combination Sum III: Not very hard, the time is not a big issue
 * Combination Sum: Watch out for corner case
 * Combination Sum II: Almost same as Combination Sum III
+* Subsets: Very simple
 
 ## Dynamic Programming 
 
