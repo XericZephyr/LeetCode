@@ -13,6 +13,7 @@
   
 ## Hash 
 * Maximum Product of Word Lengths: Bit Hash, no worry about O(n^2) search cost
+* Super Ugly Number: A trick in eliminating duplicate minimum when finding minimum
 
 ## Bit Manipulation 
 * Bitwise AND of Numbers Range: Idea is interesting. Write down the binary representation, find clues. 
