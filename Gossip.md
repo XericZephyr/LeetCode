@@ -40,7 +40,9 @@
 * Linked List Cycle II: Very Tricky, see proof 
 * Find the Duplicate Number: Could use Linked List Cycle II to solve it, very tricky. 
 
+## Back Tracking 
 
+* Gray Code: Use reversed engineering by Run Code
 
 ## Dynamic Programming 
 
