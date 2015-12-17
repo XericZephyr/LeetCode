@@ -50,6 +50,7 @@
 * Combination Sum II: Almost same as Combination Sum III
 * Subsets: Very simple
 * Subsets II: Watch out corner case
+* Jump Game: Think reversely. 
 
 ## Dynamic Programming 
 
