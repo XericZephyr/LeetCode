@@ -51,6 +51,7 @@
 * Subsets: Very simple
 * Subsets II: Watch out corner case
 * Jump Game: Think reversely. 
+* Restore IP Addresses: Just corner cases
 
 ## Dynamic Programming 
 
