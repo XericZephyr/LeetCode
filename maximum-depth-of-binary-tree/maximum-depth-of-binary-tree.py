@@ -2,7 +2,7 @@ __author__ = 'clp'
 
 from utils import TreeNode
 
-class Solution(object):
+class SolutionOLD(object):
 
 
     def maxDepth(self, root):
@@ -18,6 +18,23 @@ class Solution(object):
                 return max([level, max_depth(root.left, level+1), max_depth(root.right, level+1)])
 
         return max_depth(root, 1) if root else 0
+
+
+#
+#   A clearer version
+#
+
+class Solution(object):
+    def maxDepth(self, root):
+        """
+        :type root: TreeNode
+        :rtype: int
+        """
+
+        if root is None:
+            return 0
+
+        return max(self.maxDepth(root.left), self.maxDepth(root.right)) + 1
 
 
 if __name__ == "__main__":
