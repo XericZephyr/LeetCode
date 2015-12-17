@@ -14,7 +14,8 @@
 
 ## Bit Manipulation 
 * Bitwise AND of Numbers Range: Idea is interesting. Write down the binary representation, find clues. 
-# Reverse Bits: Easy, no explanation
+* Reverse Bits: Easy, no explanation
+* Single Number II: Interesting, but watch out for corner case
 
 ## Tree Related 
 
