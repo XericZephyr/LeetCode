@@ -7,8 +7,10 @@
 ## Array
 * 4sum, not similar to 2sum, optimization by several well-designed conditions.
 * 3sum, similar to 4sum, but really requires O(n^2) time complexity
-* 3Sum Closest, Not hard, very similar to 3sum  
-
+* 3Sum Closest, Not hard, very similar to 3sum
+  
+## Hash 
+* Maximum Product of Word Lengths: Bit Hash, no worry about O(n^2) search cost
 
 ## Tree Related 
 
