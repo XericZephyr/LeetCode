@@ -31,6 +31,8 @@
 * Find Peak Element: Use three pointers to do search in logarithm time 
 * H Index II: Corner case, DO it again 
 
+* Balanced Binary Tree: Based on Maximum Depth of Binary Tree, simple
+
 ## Search 
 
 * Search a 2D Matrix II: Design Reasonable Path 
