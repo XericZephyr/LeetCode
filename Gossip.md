@@ -12,6 +12,9 @@
 ## Hash 
 * Maximum Product of Word Lengths: Bit Hash, no worry about O(n^2) search cost
 
+## Bit Manipulation 
+* Bitwise AND of Numbers Range: Idea is interesting. Write down the binary representation, find clues. 
+
 ## Tree Related 
 
 * Binary Tree Right Side View, Simple solution by level order traversal 
