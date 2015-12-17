@@ -41,10 +41,6 @@
 * Find the Duplicate Number: Could use Linked List Cycle II to solve it, very tricky. 
 
 
-## Question 
-* In level-order traversal or BFS, how does "constant space" count? 
-    Does this mean the use of node queue is prohibited? 
-* This is called O(N) ???? https://leetcode.com/discuss/74447/java-o-n-minimum-size-subarray-sum-using-two-pointers
 
 ## Dynamic Programming 
 
@@ -52,6 +48,13 @@
 * Maximum Product Subarray: O(N) Algorithm, watch out the objective function
 * Decode Ways: Corner Cases
 * Unique Paths II: Corner Cases
+* Maximal Square: Remember Integral Image!!!! We need to pad zero on the top and left 
+
+## Question 
+* In level-order traversal or BFS, how does "constant space" count? 
+    Does this mean the use of node queue is prohibited? 
+* This is called O(N) ???? https://leetcode.com/discuss/74447/java-o-n-minimum-size-subarray-sum-using-two-pointers
+
 
 ## Proof 
 
