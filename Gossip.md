@@ -81,6 +81,7 @@
 * Maximal Square: Remember Integral Image!!!! We need to pad zero on the top and left 
 
 * Best Time to Buy and Sell Stock II: This is simple. Really. 
+* Best Time to Buy and Sell Stock with Cooldown: State Machine is Powerful!!! Really!
 
 ## Question 
 * In level-order traversal or BFS, how does "constant space" count? 
