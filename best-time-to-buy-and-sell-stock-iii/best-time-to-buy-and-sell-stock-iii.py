@@ -8,16 +8,13 @@ class Solution(object):
         :rtype: int
         """
         INT_MIN = -0xFFFFFFFF
-        if not prices:
-            return 0
-        init = 0
-        hold_1st = -prices[0]
+        hold_1st = INT_MIN
         rest_1st = 0
         hold_2nd = INT_MIN
         rest_2nd = 0
-        for i in range(1, len(prices)):
+        for i in range(len(prices)):
             hold_1st, rest_1st, hold_2nd, rest_2nd = \
-                max(init-prices[i], hold_1st), \
+                max(-prices[i], hold_1st), \
                 max(rest_1st, hold_1st+prices[i]), \
                 max(hold_2nd, rest_1st-prices[i]), \
                 max(rest_2nd, hold_2nd+prices[i])
