@@ -13,6 +13,8 @@
 * 3Sum Closest, Not hard, very similar to 3sum
 
 * Game of Life: Another Integral Image problem 
+
+* Count and Say: Simple, no worry about TLE
   
 ## Hash 
 * Maximum Product of Word Lengths: Bit Hash, no worry about O(n^2) search cost
