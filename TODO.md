@@ -9,3 +9,4 @@
 [ ] Count Complete Tree Nodes: Cheating, but works 
 [ ] Find the Duplicate Number: Could use Linked List Cycle II to solve it, very tricky.
 [ ] H Index II: Corner case, do it again 
+[ ] Multiply Strings: AC by luck, do it again 

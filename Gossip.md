@@ -5,6 +5,7 @@
 * Pow(x, n): Corner case, binary division 
 * Rectangle Area: Observe, Observe, Observe
 * Divide Two Integers: Bit manipulation is interesting. But corner case is not.
+* Multiply Strings: AC by luck, do it again 
 
 ## Array
 * 4sum, not similar to 2sum, optimization by several well-designed conditions.
