@@ -55,6 +55,10 @@
 * Longest Increasing Subsequence: using dynamic programming, no idea how to use O(NLogN)
 * Kth Largest Element in an Array: Based on quick sort
 
+### Binary Search 
+
+* Search in Rotated Sorted Array: Design corner case and do test cases. 
+
 ## List or Pointer 
 * Rotate List: Just try to fool you by different corner case 
 * Remove Duplicates from Sorted Array II: Simple, just use two pointers 
