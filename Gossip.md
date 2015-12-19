@@ -10,7 +10,7 @@
 ## Array
 
 * Rotate Image: Simple, use tuple
-* Find Minimum in Rotated Sorted Array II: Need slight optimization
+
 
 * 4sum, not similar to 2sum, optimization by several well-designed conditions.
 * 3sum, similar to 4sum, but really requires O(n^2) time complexity
@@ -57,7 +57,9 @@
 
 ### Binary Search 
 
+* Find Minimum in Rotated Sorted Array II: Need slight optimization
 * Search in Rotated Sorted Array: Design corner case and do test cases. 
+* Search in Rotated Sorted Array II: Combine the idea of its I problem and 'Find Minimum in Rotated Sorted Array II'
 
 ## List or Pointer 
 * Rotate List: Just try to fool you by different corner case 
