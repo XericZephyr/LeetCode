@@ -10,6 +10,7 @@
 ## Array
 
 * Rotate Image: Simple, use tuple
+* Find Minimum in Rotated Sorted Array II: Need slight optimization
 
 * 4sum, not similar to 2sum, optimization by several well-designed conditions.
 * 3sum, similar to 4sum, but really requires O(n^2) time complexity
