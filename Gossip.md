@@ -83,6 +83,10 @@
 * Jump Game: Think reversely. 
 * Restore IP Addresses: Just corner cases
 
+## Graph 
+
+* Word Search: Graph DFS!!!! 
+
 ## Dynamic Programming 
 
 * House Robber II: Can we break the circle? How? 
