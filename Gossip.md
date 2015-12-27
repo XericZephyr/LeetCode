@@ -49,6 +49,9 @@
 * Balanced Binary Tree: Based on Maximum Depth of Binary Tree, simple
 * Sum Root to Leaf Numbers: Level-order BFS, simple
 
+* Convert Sorted Array to Binary Search Tree: Recursion version is trivial
+
+
 ## Search 
 
 * Search a 2D Matrix II: Design Reasonable Path 
