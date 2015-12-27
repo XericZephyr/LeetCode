@@ -52,6 +52,8 @@
 * Convert Sorted Array to Binary Search Tree: Recursion version is trivial
 * Convert Sorted List to Binary Search Tree: Little bit harder, fast-slow two-pointer to get mid
 
+* Reorder List: very basic 
+
 
 ## Search 
 
