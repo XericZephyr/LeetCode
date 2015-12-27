@@ -20,6 +20,12 @@
 
 * Count and Say: Simple, no worry about TLE
 * Spiral Matrix: Simple 
+
+## List 
+
+* Remove Duplicates from Sorted List II: Trivial solution using hash table 
+* Reorder List: Trivial solution by using several fundamental list operation 
+
   
 ## Hash 
 * Maximum Product of Word Lengths: Bit Hash, no worry about O(n^2) search cost
@@ -52,7 +58,7 @@
 * Convert Sorted Array to Binary Search Tree: Recursion version is trivial
 * Convert Sorted List to Binary Search Tree: Little bit harder, fast-slow two-pointer to get mid
 
-* Reorder List: very basic 
+
 
 
 ## Search 
