@@ -33,7 +33,8 @@
 * Evaluate Reverse Polish Notation: very simple using stack, note that in Python, -6/132 == -1, 
     but in this problem -6/132 = -(6/132) = 0 
 * Basic Calculator: Custom stream class, corner cases, e.g. 2 + -15
-* 
+* Basic Calculator II: Even simpler than Basic Calculator I, due to there being less corner cases 
+
   
 ## Hash 
 * Maximum Product of Word Lengths: Bit Hash, no worry about O(n^2) search cost
