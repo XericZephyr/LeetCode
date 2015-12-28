@@ -128,6 +128,11 @@
 * Best Time to Buy and Sell Stock III: State Machine ! 
 * Best Time to Buy and Sell Stock IV: State Machine and Optimization. Interesting
 
+
+## Greedy 
+
+* Trapping Rain Water: Using two pointer. Hard to come up with this algorithm. 
+
 ## Question 
 * In level-order traversal or BFS, how does "constant space" count? 
     Does this mean the use of node queue is prohibited? 
