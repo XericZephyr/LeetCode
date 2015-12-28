@@ -123,3 +123,31 @@ class TreeLinkNode(object):
         self.left = None
         self.right = None
         self.next = None
+
+
+class UndirectedGraphNode(object):
+    def __init__(self, x):
+        self.label = x
+        self.neighbors = []
+
+    def __repr__(self):
+        # visit = {}
+        # stack = [self]
+        # rep = []
+        # while stack:
+        #     current = stack.pop()
+        #     visit[current.label] = True
+        #     for n in current.neighbors:
+        #         if n not in visit:
+        #             stack.append(n)
+        #         else:
+        #             rep.append("%s#%s" % (str(current.label), str(n.label)))
+        # return ', '.join(rep)
+        return str(self.label)
+
+    def __getitem__(self, item):
+        for n in self.neighbors:
+            if item == n.label:
+                return n
+        raise KeyError(item)
+
