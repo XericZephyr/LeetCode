@@ -34,6 +34,8 @@
 * Maximum Product of Word Lengths: Bit Hash, no worry about O(n^2) search cost
 * Super Ugly Number: A trick in eliminating duplicate minimum when finding minimum
 
+* Coin Change: Think about generation of number. Just O(n*k) algorithm is fine.  
+
 ## Bit Manipulation 
 * Bitwise AND of Numbers Range: Idea is interesting. Write down the binary representation, find clues. 
 * Reverse Bits: Easy, no explanation
