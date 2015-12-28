@@ -28,6 +28,7 @@
 
 * Insertion Sort List: Fundamental if you know insertion sort
 
+
   
 ## Hash 
 * Maximum Product of Word Lengths: Bit Hash, no worry about O(n^2) search cost
@@ -60,7 +61,9 @@
 * Convert Sorted Array to Binary Search Tree: Recursion version is trivial
 * Convert Sorted List to Binary Search Tree: Little bit harder, fast-slow two-pointer to get mid
 
+## Heap 
 
+* Merge k Sorted Lists: Trivial if using heapq in python 
 
 
 ## Search 
