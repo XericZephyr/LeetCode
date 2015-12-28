@@ -132,6 +132,7 @@
 ## Greedy 
 
 * Trapping Rain Water: Using two pointer. Hard to come up with this algorithm. 
+* Binary Tree Maximum Path Sum: See hint in solution comment [Interesting]
 
 ## Question 
 * In level-order traversal or BFS, how does "constant space" count? 
