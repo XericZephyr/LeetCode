@@ -26,6 +26,8 @@
 * Remove Duplicates from Sorted List II: Trivial solution using hash table 
 * Reorder List: Trivial solution by using several fundamental list operation 
 
+* Insertion Sort List: Fundamental if you know insertion sort
+
   
 ## Hash 
 * Maximum Product of Word Lengths: Bit Hash, no worry about O(n^2) search cost
