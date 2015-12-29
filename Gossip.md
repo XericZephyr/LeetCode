@@ -7,7 +7,7 @@
 * Divide Two Integers: Bit manipulation is interesting. But corner case is not.
 * Multiply Strings: AC by luck, do it again 
 
-## Array
+## Array and String 
 
 * Rotate Image: Simple, use tuple
 
@@ -20,6 +20,11 @@
 
 * Count and Say: Simple, no worry about TLE
 * Spiral Matrix: Simple 
+
+
+* Minimum Window Substring: Interesting idea with 
+    https://leetcode.com/discuss/72701/here-is-a-template-that-can-solve-most-substring-problems
+* 
 
 ## List 
 
