@@ -8,6 +8,7 @@
 * Multiply Strings: AC by luck, do it again 
 
 * Integer to Roman: Familiar your self with 10-base numbers
+* Integer to English Words: Simple, just need to type in all english number words
 
 ## Array and String 
 
