@@ -35,6 +35,8 @@
 * Basic Calculator: Custom stream class, corner cases, e.g. 2 + -15
 * Basic Calculator II: Even simpler than Basic Calculator I, due to there being less corner cases 
 
+* Sliding Window Maximum: Seive method by DeQue
+
   
 ## Hash 
 * Maximum Product of Word Lengths: Bit Hash, no worry about O(n^2) search cost
