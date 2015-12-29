@@ -144,6 +144,7 @@
 
 * Trapping Rain Water: Using two pointer. Hard to come up with this algorithm. 
 * Binary Tree Maximum Path Sum: See hint in solution comment [Interesting]
+* Remove Duplicate Letters: With hash table, hard to come up 
 
 ## Question 
 * In level-order traversal or BFS, how does "constant space" count? 
