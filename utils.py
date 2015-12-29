@@ -151,3 +151,53 @@ class UndirectedGraphNode(object):
                 return n
         raise KeyError(item)
 
+
+class BinaryIndexedTree(object):
+    #
+    #   Notice, idx is 1-based indexing
+    #
+
+    def __init__(self, init_list):
+        self._tree = [0] * (1+len(init_list))
+        for idx in range(1, 1+len(init_list)):
+            self.add_value(idx, init_list[idx-1])
+
+    def add_value(self, idx, val):
+        while idx < len(self._tree):
+            self._tree[idx] += val
+            idx += (idx & -idx)
+
+    def get_sum(self, idx):
+        s = 0
+        if idx == 0:
+            return 0
+        while idx > 0:
+            s += self._tree[idx]
+            idx -= (idx & -idx)
+        return s
+
+    def get_value(self, idx):
+        return self.get_sum(idx) - self.get_sum(idx-1)
+
+    def update(self, idx, val):
+        # val is the add
+        self.add_value(idx, val-self.get_value(idx))
+
+    def __getitem__(self, item):
+        #
+        #   Here, we provide zero-based indexing in [] indexing
+        #
+        if isinstance(item, slice):
+            start = item.start if item.start is not None else 0
+            stop = item.stop+1 if item.stop is not None else len(self._tree)-1
+            return self.get_sum(stop) - self.get_sum(start)
+        elif isinstance(item, int):
+            return self.get_value(item+1)
+        raise KeyError(str(item))
+
+    def __setitem__(self, key, value):
+        if isinstance(key, int):
+            self.update(key+1, value)
+            return
+        raise KeyError(str(key))
+

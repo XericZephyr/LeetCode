@@ -69,6 +69,8 @@
 * Convert Sorted Array to Binary Search Tree: Recursion version is trivial
 * Convert Sorted List to Binary Search Tree: Little bit harder, fast-slow two-pointer to get mid
 
+* Range Sum Query - Mutable: Use Binary Indexed Tree, simple 
+
 ## Heap 
 
 * Merge k Sorted Lists: Trivial if using heapq in python 
