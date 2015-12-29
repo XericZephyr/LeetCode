@@ -70,6 +70,7 @@
 * Convert Sorted List to Binary Search Tree: Little bit harder, fast-slow two-pointer to get mid
 
 * Range Sum Query - Mutable: Use Binary Indexed Tree, simple 
+* Count of Smaller Numbers After Self: Binary Indexed Tree, using ideas like count-sort
 
 ## Heap 
 
