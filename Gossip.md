@@ -27,7 +27,10 @@
 
 * Minimum Window Substring: Interesting idea with 
     https://leetcode.com/discuss/72701/here-is-a-template-that-can-solve-most-substring-problems
-* 
+
+* Longest Consecutive Sequence: another seive method. Simple and efficient. 
+ See my analysis in https://leetcode.com/discuss/70695/9loc-java-o-n-solution?show=76633#a76633 
+ for why it's O(N). 
 
 ## List 
 
