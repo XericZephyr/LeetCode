@@ -79,6 +79,8 @@
 * Range Sum Query - Mutable: Use Binary Indexed Tree, simple 
 * Count of Smaller Numbers After Self: Binary Indexed Tree, using ideas like count-sort
 
+* Serialize and Deserialize Binary Tree: Avoid using large list operation, time consuming 
+
 ## Heap 
 
 * Merge k Sorted Lists: Trivial if using heapq in python 
