@@ -42,6 +42,8 @@
 
 * Sliding Window Maximum: Seive method by DeQue
 
+* Simplify Path: Using stream 
+
   
 ## Hash 
 * Maximum Product of Word Lengths: Bit Hash, no worry about O(n^2) search cost
