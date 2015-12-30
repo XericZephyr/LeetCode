@@ -55,6 +55,7 @@
 * Maximum Product of Word Lengths: Bit Hash, no worry about O(n^2) search cost
 * Super Ugly Number: A trick in eliminating duplicate minimum when finding minimum
 
+* Permutations II: Counter 
 
 
 ## Bit Manipulation 
