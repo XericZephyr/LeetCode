@@ -31,6 +31,8 @@
 * Longest Consecutive Sequence: another seive method. Simple and efficient. 
  See my analysis in https://leetcode.com/discuss/70695/9loc-java-o-n-solution?show=76633#a76633 
  for why it's O(N). 
+ 
+* Next Permutation: Research Property and get answer 
 
 ## List 
 
