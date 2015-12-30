@@ -137,6 +137,7 @@
 * Restore IP Addresses: Just corner cases
 
 * N-Queens: Just use backtracking 
+* N-Queens II: Same algorithm as N-Queens
 
 ## Graph 
 
