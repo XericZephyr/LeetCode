@@ -34,6 +34,8 @@
  
 * Next Permutation: Research Property and get answer 
 
+* Implement strStr(): KMP Algorithm 
+
 ## List 
 
 * Remove Duplicates from Sorted List II: Trivial solution using hash table 
