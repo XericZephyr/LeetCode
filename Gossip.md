@@ -89,6 +89,8 @@
 
 * Serialize and Deserialize Binary Tree: Avoid using large list operation, time consuming 
 
+* Path Sum II: DFS, simple. Watch out for corner case 
+
 ## Heap 
 
 * Merge k Sorted Lists: Trivial if using heapq in python 
