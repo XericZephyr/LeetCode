@@ -149,6 +149,7 @@
 * Best Time to Buy and Sell Stock III: State Machine ! 
 * Best Time to Buy and Sell Stock IV: State Machine and Optimization. Interesting
 
+* Edit Distance: Similar to LCS, look for optimal structure. 
 
 ## Greedy 
 
