@@ -152,7 +152,7 @@
 * Edit Distance: Similar to LCS, look for optimal structure. 
 * Interleaving String: See comment for structure
 * Palindrome Partitioning: Can do very much optimization, 
-
+* Palindrome Partitioning II: Carefully do DP for palindrome condition 
 
 ## Greedy 
 
