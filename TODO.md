@@ -12,3 +12,5 @@
 [ ] Multiply Strings: AC by luck, do it again 
 [ ] Merge k Sorted Lists: Try non-trivial version of this problem
 [ ] Clone Graph: No idea about prev WA. Try to do it again.
+[ ] Edit Distance: DP
+[ ] Distinct Subsequence: Do it again
