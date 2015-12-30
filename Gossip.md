@@ -136,6 +136,8 @@
 * Coin Change: Think about generation of number. Just O(n*k) algorithm is fine.  
 * Restore IP Addresses: Just corner cases
 
+* N-Queens: Just use backtracking 
+
 ## Graph 
 
 * Word Search: Graph DFS!!!!
