@@ -97,6 +97,7 @@
 * Path Sum II: DFS, simple. Watch out for corner case 
 
 * Trie: Simple, just watch out for null-terminated string  
+* Add and Search Word - Data structure design: Simply another Trie 
 
 ## Heap 
 
