@@ -96,6 +96,8 @@
 
 * Path Sum II: DFS, simple. Watch out for corner case 
 
+* Trie: Simple, just watch out for null-terminated string  
+
 ## Heap 
 
 * Merge k Sorted Lists: Trivial if using heapq in python 
